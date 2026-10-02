@@ -6,7 +6,7 @@ Lo asocié al cubo. Para parametrizar hacía falta que el vector fuera público.
 ![Ejercicio 1](./1.gif)
 
 ### 2. Crea un script asociado a la esfera con dos variables Vector3 públicas. Dale valor a cada componente de los vectores desde el inspector. Muestra en la consola: a. La magnitud de cada uno de ellos. b. El ángulo que forman. c. La distancia entre ambos. d. Un mensaje indicando qué vector está a una altura mayor. Muestra en el inspector cada uno de esos valores.
-Los valores se calculaban el Update() para que se actualizaran automáticamente al modificarse los componentes.
+Los valores se calculaban el Update() para que se actualizaran automáticamente al modificarse los componentes. Para decir que estaban a la misma altura lo codifiqué con un 0.
 
 
 ![Ejercicio 2](./2.gif)
