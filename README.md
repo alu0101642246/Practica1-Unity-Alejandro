@@ -17,6 +17,6 @@ Lo hice en el método OnGUI() con un GUI.Label() para mostrar el texto en la pan
 ![Ejercicio 3](./3.gif)
 
 ### 4. Crea un script para la esfera que muestre en consola la distancia a la que están el cubo y el cilindro.
-Yo interpreté que el script pertenecía a la esfera y que lo que se calculaba era la distancia entre la esfera y el cubo; y la esfera y el cilindro (en lugar de que fuera la distancia del cubo con el cilindro, donde tendría más sentido poner el script en el cilindro o en el cubo). En este era importante crear los Tags y asignarlos, para poder acceder con FindWithTag().
+Yo interpreté que el script pertenecía a la esfera y que lo que se calculaba era la distancia entre la esfera y los otros dos (en lugar de que fuera la distancia del cubo con el cilindro). En este era importante crear los Tags y asignarlos, para poder acceder con FindWithTag().
 
 ![Ejercicio 4](./4.gif)
